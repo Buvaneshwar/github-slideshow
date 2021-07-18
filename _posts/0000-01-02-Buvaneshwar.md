@@ -1,6 +1,5 @@
 ---
 layout: slide
 title: "Welcome to our second slide!"
----
-Your text
+---Buvaneshwar
 Use the left arrow to go back!
